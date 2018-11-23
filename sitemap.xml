@@ -2,16 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://guofazhan.github.io/2018/09/11/Hystrix%E4%B9%8B%E4%BF%A1%E5%8F%B7%E9%87%8F%E9%9A%94%E7%A6%BB%E7%86%94%E6%96%AD/</loc>
+    <loc>https://guofazhan.github.io/2018/11/23/zuul%E4%B9%8B%E8%BF%87%E6%BB%A4%E5%99%A8Filter%E7%AE%A1%E7%90%86/</loc>
     
-    <lastmod>2018-09-11T02:39:02.585Z</lastmod>
+    <lastmod>2018-11-23T02:30:53.232Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://guofazhan.github.io/2018/09/03/Spring-Cloud-Gateway%E4%B9%8B%E8%AF%B7%E6%B1%82%E5%A4%84%E7%90%86%E6%B5%81%E7%A8%8B/</loc>
+    <loc>https://guofazhan.github.io/2018/11/23/Spring-Cloud-Gateway%E4%B9%8B%E8%AF%B7%E6%B1%82%E5%A4%84%E7%90%86%E6%B5%81%E7%A8%8B/</loc>
     
-    <lastmod>2018-09-03T09:05:48.133Z</lastmod>
+    <lastmod>2018-11-23T02:28:34.675Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://guofazhan.github.io/2018/11/23/zuul%E4%B9%8B%E8%AF%B7%E6%B1%82%E5%A4%84%E7%90%86%E6%B5%81%E7%A8%8B/</loc>
+    
+    <lastmod>2018-11-23T02:27:28.614Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://guofazhan.github.io/2018/09/11/Hystrix%E4%B9%8B%E4%BF%A1%E5%8F%B7%E9%87%8F%E9%9A%94%E7%A6%BB%E7%86%94%E6%96%AD/</loc>
+    
+    <lastmod>2018-09-11T02:39:02.585Z</lastmod>
     
   </url>
   
